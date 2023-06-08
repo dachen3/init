@@ -1,2 +1,2 @@
-# dachen3.github.io
+# init
 personal_web
